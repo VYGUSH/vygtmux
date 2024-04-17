@@ -1,4 +1,8 @@
 # Custom config tmux for vygush
+![Изображение][1]
+
+[1]: screenview.png "Screen View"
+
 ## Старт
 Установка:
 ```bash
