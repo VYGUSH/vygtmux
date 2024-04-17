@@ -17,10 +17,10 @@ mkdir ~/.config/tmux
 
 Загружаем конфиг:
 ```bash
-git clone https://github.com/VYGUSH/vygtmux.git ~/.config/tmux
+git clone https://github.com/VYGUSH/vygtmux ~/.config/tmux
 ```
 
-Чтобы забрать в свой репозиторий:
+Чтобы забрать конфиг в свой репозиторий:
 ```bash
 rm -rf ~/.config/tmux/.git
 ```
